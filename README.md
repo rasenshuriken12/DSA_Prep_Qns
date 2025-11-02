@@ -8,28 +8,21 @@ The problems are grouped by data structure/topic, and each file contains solutio
 Please note: the prt.c file includes some random questions of all topics which i used to practice and prepare for my viva examinations
 
 ### Example Folder Structure:
+
+```html
 LEETCODE/
-
 |
-
 ├── Arrays/ 
-
 ├── (Question 1: Find minimum or maximum number in array)
-
 ├── (Question 2:find last duplicate number in sorted array)
-
 |
-
 ├── Stacks/
-
 ├── stacks.c (Question 1: Implement a stack using arrays)
-
 |
-
 ├── Queues/
-
 ├── queue.c (Question 1: Circular queue implementation)
 
+```
 ---
 
 ## ✍️ Highlights
