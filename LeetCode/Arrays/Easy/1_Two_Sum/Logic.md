@@ -25,3 +25,4 @@ Try all possible pairs and check if their sum equals the target.
 ```c
 
 ```
+💡 Approach 2: Hash Map
