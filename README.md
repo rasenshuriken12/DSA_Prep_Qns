@@ -54,7 +54,7 @@ LeetCode/
 │   ├── Easy/                             # Medium 
 │   │   ├── 📑 1_Two_Sum/                 # Question 
 │   │   │   ├── src.c                     # Solution 
-│   │   │   ├── Logic.txt                 # Learning, Mistakes, Your Logical Flow of Solving & Answering 
+│   │   │   ├── Logic.txt                 # Logical Flow of Solving & Answering, Learning, Mistakes
 │   │   ├── 📑 14_Longest_Common_Prefix/
 │   │   │   ├── src.c            
 │   │   │   ├── Logic.txt
