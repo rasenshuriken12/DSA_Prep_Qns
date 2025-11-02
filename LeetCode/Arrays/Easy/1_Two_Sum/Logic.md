@@ -18,3 +18,10 @@ To find: two indices (i, j) such that:
 ```c
 nums[i] + nums[j] == target   # i != j
 ```
+
+💡 Approach 1: Linear Search (Brute Force)
+Try all possible pairs and check if their sum equals the target. 
+
+```c
+
+```
