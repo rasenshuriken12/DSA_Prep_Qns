@@ -4,10 +4,21 @@
 # Overview
 This repository contains my solutions to **basic to medium-level Data Structures and Algorithms (DSA) problems**. The questions are sourced from the GeeksforGeeks DSA practice list and are categorized by data structures for easy navigation.
 
+## ✍️ Highlights
+- **Total Questions Solved:** 10+(and will continue to do more😊) 
+- **Topics Covered:**
+  - Arrays
+  - Stacks
+  - Queues
+  - Linked Lists
+
+---
 
 ## 📂 Repository Structure
 The problems are grouped by Data Structure/Level/Topic, and each topic contains solutions for multiple questions and Flow of solving, Learnings, Mistakes, etc. Each problem is numbered as per the GeeksforGeeks list for easy reference.
 Please note: the prac.c file includes some random questions of all topics which i used to practice and prepare for my viva examinations
+
+
 
 ### Example Folder Structure:
 
@@ -30,16 +41,6 @@ LeetCode/
 │   │   │   ├── Journey.txt
 
 ```
----
-
-## ✍️ Highlights
-- **Total Questions Solved:** 10+(and will continue to do more😊) 
-- **Topics Covered:**
-  - Arrays
-  - Stacks
-  - Queues
-  - Linked Lists
-
 ---
 
 ## 📖 About the Code
