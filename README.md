@@ -17,8 +17,10 @@ LeetCode/
 ├── 1_Two_Sum/
 ├── src.c
 ├── Journey.txt
-├── (Question 2:find last duplicate number in sorted array)
-|
+├── 14_Two_Sum/
+├── src.c
+├── Journey.txt
+├──
 ├── Stacks/
 ├── Easy/
 ├── 20_Valid_Parentheses/
