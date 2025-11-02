@@ -1,20 +1,20 @@
 # LeetCode(LC)
 
-Level: `Easy`
+
+![Easy](https://img.shields.io/badge/Level-Easy-000080?style=for-the-badge&logo=C&logoColor=white)
+
 | LC Qn | Title | Solution |
 |---|---|---|
 | 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) |  |
 |  |  |  |
 
-
-Level: `Medium`
+![Medium](https://img.shields.io/badge/Level-Medium-000080?style=for-the-badge&logo=C&logoColor=white)
 | LC Qn | Title | Solution |
 |---|---|---|
 | . | [Title]() | [src.c]() |
 |  |  |  |
 
-
-Level: `Hard`
+![Hard](https://img.shields.io/badge/Level-Hard-000080?style=for-the-badge&logo=C&logoColor=white)
 | LC Qn | Title | Solution |
 |---|---|---|
 | . | [Title]() | [src.c]() |
