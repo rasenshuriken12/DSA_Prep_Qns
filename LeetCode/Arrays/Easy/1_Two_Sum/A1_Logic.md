@@ -9,6 +9,6 @@ You may assume that each input would have exactly one solution, and you may not 
 Given: An array nums, A target number
 To find: two indices (i, j) such that:
 
-nums[i] + nums[j] == target
-
-and i ≠ j.
+```c
+nums[i] + nums[j] == target   # i ≠ j
+```
