@@ -51,7 +51,7 @@ Please note: the prac.c file includes some random questions of all topics which 
 LeetCode/
 |
 ├── 📂 Arrays/                            # Data Structures 
-│   ├── Easy/                             # Medium 
+│   ├── Easy/                             # Difficulty Level
 │   │   ├── 📑 1_Two_Sum/                 # Question 
 │   │   │   ├── src.c                     # Solution 
 │   │   │   ├── Logic.txt                 # Logical Flow of Solving & Answering, Learning, Mistakes
