@@ -14,7 +14,7 @@ LeetCode/
 |
 ├── 📂 Arrays/                            # Data Structures 
 │   ├── Easy/                             # Medium 
-│   │   ├── 📑 1_Two_Sum/                  # Question 
+│   │   ├── 📑 1_Two_Sum/                 # Question 
 │   │   │   ├── src.c                     # Solution 
 │   │   │   ├── Journey.txt               # Learning, Mistakes, Flow of Answering 
 │   │   ├── 📑 14_Longest_Common_Prefix/
