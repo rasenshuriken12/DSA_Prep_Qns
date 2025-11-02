@@ -10,7 +10,7 @@ Please note: the prt.c file includes some random questions of all topics which i
 ### Example Folder Structure:
 
 ```html
-LEETCODE/
+LeetCode/
 |
 ├── Arrays/ 
 ├── (Question 1: Find minimum or maximum number in array)
