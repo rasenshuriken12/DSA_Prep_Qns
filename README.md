@@ -27,7 +27,7 @@ This repository contains my solutions to **basic to medium-level Data Structures
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
 - **From Coding Platforms:**
 
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deviprasad9833/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/tree/main/HackerRank) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/tree/main/HackerEarth) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deviprasad9833)
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deviprasad9833/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shettydeviprasa2) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_Prep_Qns/tree/main/HackerEarth) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deviprasad9833)
 |---|---|---|---|
 
 - **Topics Covered:**
