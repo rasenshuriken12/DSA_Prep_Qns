@@ -78,15 +78,11 @@ LeetCode/
 2. Some files contain **multiple solutions** to similar problems for comparison.
 3. The problems are **numbered** and are in increasing order of difficulty
 
----
-
 ## 🚀 How to Use This Repository
 1. Browse the folders based on the data structure you're interested in.
 2. Refer to the question in the file to find the original problem on GeeksforGeeks dsa practice questions.
 3. Run the code in your local environment to understand and test the solutions.
 4. i have refered to this link for questions: [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
-
----
 
 ## 💡 Future Plans
 - Add more advanced-level questions.
@@ -107,6 +103,8 @@ Feel free to contribute by:
 - The code is currently commented to indicate the logic and flow. Uncomment as needed to test or reuse.
 - For each file, you'll find solutions to several questions grouped logically. 
 - Happy coding!😊
+
+---
 
 # 🙋‍♂️ Support:
 If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
