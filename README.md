@@ -84,7 +84,8 @@ LeetCode/
 1. Browse the folders based on the data structure you're interested in.
 2. Refer to the question in the file to find the original problem on GeeksforGeeks dsa practice questions.
 3. Run the code in your local environment to understand and test the solutions.
-4. i have refered to this link for questions: https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/ 
+4. i have refered to this link for questions: [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
+
 ---
 
 ## 💡 Future Plans
