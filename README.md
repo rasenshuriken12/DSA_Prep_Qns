@@ -41,6 +41,7 @@ This repository contains my solutions to **basic to medium-level Data Structures
 - **Useful Repos:**
   - [LeetCode Company wise Interview Qns](https://github.com/snehasishroy/leetcode-companywise-interview-questions)
   - [LeetCode Company wise Problems](https://github.com/hxu296/leetcode-company-wise-problems-2022)
+  - [NeetCode](https://github.com/neetcode-gh/leetcode?tab=readme-ov-file)
 
 ---
 
