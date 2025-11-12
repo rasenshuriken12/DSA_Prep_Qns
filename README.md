@@ -23,6 +23,8 @@
 # Overview
 This repository contains my solutions to **basic to medium-level Data Structures and Algorithms (DSA) problems**. The questions are sourced from the GeeksforGeeks DSA practice list and are categorized by data structures for easy navigation.
 
+---
+
 # ✍️ Highlights
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
 - **From Coding Platforms:**
