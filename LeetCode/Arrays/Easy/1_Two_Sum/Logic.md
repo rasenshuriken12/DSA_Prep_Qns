@@ -27,7 +27,8 @@ nums[i] + nums[j] == target   # i != j
 ## 💡 Approach 
 🟡 1) Linear Search (Brute Force)
 
-- Try all possible pairs and check if their sum equals the target. 
+1. Try all possible pairs and check if their sum equals the target. 
+
 - Time Complexity: O(n²)
 - Space Complexity: O(1)
 
