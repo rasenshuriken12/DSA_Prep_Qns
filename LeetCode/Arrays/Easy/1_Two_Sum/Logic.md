@@ -45,5 +45,7 @@ for (i = 0; i < n; i++) {
 
 🟡 2) Sorting + Two-Pointer
 
+- Time Complexity: Sorting(✅ Merge Sort O(nlog(n) < Quick Sort O(n²) )
+
 🟡 3) Hash Map
 
