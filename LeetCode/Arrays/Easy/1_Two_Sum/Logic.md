@@ -46,7 +46,7 @@ for (i = 0; i < n; i++) {
 
 🟡 2) Sorting + Two-Pointer
 
-`Steps:`
+*Steps:*
 
 1. Sort the array (but need to preserve original indices)
 
