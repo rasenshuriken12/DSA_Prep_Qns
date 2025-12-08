@@ -20,7 +20,8 @@ To find: two indices (i, j) such that:
 nums[i] + nums[j] == target   # i != j
 ```
 
-💡 Approach 1: Linear Search (Brute Force)
+### 💡 Approach 
+💡 1) Linear Search (Brute Force)
 
 Try all possible pairs and check if their sum equals the target. 
 
@@ -36,6 +37,6 @@ for (i = 0; i < n; i++) {
 
 ```
 
-💡 Approach 2: Sorting + Two-Pointer
+💡 2) Sorting + Two-Pointer
 
-💡 Approach 3: Hash Map
+💡 3) Hash Map
