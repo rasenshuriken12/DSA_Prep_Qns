@@ -46,8 +46,8 @@ for (i = 0; i < n; i++) {
 🟡 2) Sorting + Two-Pointer
 
 - Sorting
-  - Time Complexity:  Sorting( ✅ Merge Sort O(nlog(n) < O(n²) Quick Sort, Bubble Sort)
-  - Space Complexity: Sorting(Merge Sort O(nlog(n) > O(n) Quick Sort > O(1) Bubble Sort ✅ )
+  - Time Complexity:  Sorting(Quick Sort, Bubble Sort O(n²) > O(nlog(n) Merge Sort ✅ )
+  - Space Complexity: Sorting(Quick Sort O(nlog(n) > O(n) Merge Sort > O(1) Bubble Sort ✅ )
 
 - Traversal 
 
