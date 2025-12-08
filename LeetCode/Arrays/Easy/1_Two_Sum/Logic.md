@@ -46,6 +46,8 @@ for (i = 0; i < n; i++) {
 
 🟡 2) Sorting + Two-Pointer
 
+`Steps:`
+
 1. Sort the array (but need to preserve original indices)
 
 2. Use two pointers: left at start, right at end
@@ -55,6 +57,8 @@ for (i = 0; i < n; i++) {
 4. If sum > target → sum is too large → need smaller number → move right left
 
 5. If sum == target → found our pair!
+
+6. Return original indices
 
 - Sorting( Optimal - Merge Sort )
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort O(n²) > Merge Sort O(nlog(n) ✅ )
