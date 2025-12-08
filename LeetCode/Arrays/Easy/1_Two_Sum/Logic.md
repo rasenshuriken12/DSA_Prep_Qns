@@ -50,11 +50,11 @@ for (i = 0; i < n; i++) {
 
 2. Use two pointers: left at start, right at end
 
-3. If sum too small → move left pointer right
+3. If sum < target → sum is too small → need larger number → move left right
 
-4. If sum too large → move right pointer left
+4. If sum > target → sum is too large → need smaller number → move right left
 
-5. If sum equals target → found!
+5. If sum == target → found our pair!
 
 - Sorting( Optimal - Merge Sort )
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort O(n²) > Merge Sort O(nlog(n) ✅ )
