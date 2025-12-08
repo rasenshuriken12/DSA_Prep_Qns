@@ -45,6 +45,16 @@ for (i = 0; i < n; i++) {
 
 🟡 2) Sorting + Two-Pointer
 
+1. Sort the array (but need to preserve original indices)
+
+2. Use two pointers: left at start, right at end
+
+3. If sum too small → move left pointer right
+
+4. If sum too large → move right pointer left
+
+5. If sum equals target → found!
+
 - Sorting( Optimal - Merge Sort )
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort O(n²) > Merge Sort O(nlog(n) ✅ )
   - Space Complexity: Sorting(Quick Sort O(nlog(n)) > Merge Sort O(n) > Bubble Sort O(1) ✅ )
