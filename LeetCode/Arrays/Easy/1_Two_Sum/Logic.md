@@ -47,7 +47,7 @@ for (i = 0; i < n; i++) {
 
 - Sorting
   - Time Complexity:  Sorting( ✅ Merge Sort O(nlog(n) < O(n²) Quick Sort, Bubble Sort)
-  - Space Complexity: Sorting(Merge Sort O(nlog(n) > O(n²) Quick Sort > O(1) Bubble Sort ✅ )
+  - Space Complexity: Sorting(Merge Sort O(nlog(n) > O(n) Quick Sort > O(1) Bubble Sort ✅ )
 
 - Traversal 
 
