@@ -7,21 +7,21 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ## 🧮 Logic:
 
-Given: An array `nums`, A `target` number
+🟢 Given: An array `nums`, A `target` number
 
 ```c
 nums[] = array of integers
 target = integer
 ```
 
-To find: two indices (i, j) such that:
+🟢 To find: two indices (i, j) such that:
 
 ```c
 nums[i] + nums[j] == target   # i != j
 ```
 
 ## 💡 Approach 
-💡 1) Linear Search (Brute Force)
+🟡 1) Linear Search (Brute Force)
 
 Try all possible pairs and check if their sum equals the target. 
 
@@ -37,6 +37,7 @@ for (i = 0; i < n; i++) {
 
 ```
 
-💡 2) Sorting + Two-Pointer
+🟡 2) Sorting + Two-Pointer
 
-💡 3) Hash Map
+🟡 3) Hash Map
+
