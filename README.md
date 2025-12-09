@@ -1,8 +1,6 @@
 # DSA_Prep_Qns
 
-<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
- 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![My_Portfolio](https://img.shields.io/badge/My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://deviprasadshetty.com/) | [![My_Projects](https://img.shields.io/badge/My_Projects-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Projects)  |                      
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]() | [![My_Portfolio](https://img.shields.io/badge/My_Portfolio-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://deviprasadshetty.com/) | [![My_Projects](https://img.shields.io/badge/My_Projects-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Projects)  |                      
 |---|---|---|
 
 ---
@@ -16,7 +14,7 @@ This repository contains my solutions to **basic to medium-level Data Structures
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
 - **From Coding Platforms:**
 
-| [![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deviprasad9833/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shettydeviprasa2) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@shettydeviprasad0102/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deviprasad9833) | [![GfG](https://img.shields.io/badge/Geeks_for_Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shettydevip6vun/) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)] | ![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | ![GfG](https://img.shields.io/badge/Geeks_for_Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
 |---|---|---|---|---|
 
 - **Topics Covered:**
