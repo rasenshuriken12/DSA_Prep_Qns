@@ -14,7 +14,7 @@ This repository contains my solutions to **basic to medium-level Data Structures
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
 - **From Coding Platforms:**
 
-| ![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)] | ![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | ![GfG](https://img.shields.io/badge/Geeks_for_Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) | ![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white) | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | ![GfG](https://img.shields.io/badge/Geeks_for_Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white) |
 |---|---|---|---|---|
 
 - **Topics Covered:**
