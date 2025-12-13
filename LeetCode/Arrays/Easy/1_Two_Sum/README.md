@@ -16,7 +16,7 @@ nums[] = array of integers
 target = integer
 ```
 
-🟢 To find: two indices (i, j) such that:
+🟢 To find: two indices (`i`, `j`) such that:
 
 ```bash
 nums[i] + nums[j] == target   # i != j
