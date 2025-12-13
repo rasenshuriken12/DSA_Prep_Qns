@@ -35,7 +35,9 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 🟡 1) Linear Search (Brute Force)
 
 1.Check every possible pair in the array
+
 2. For each element at index i, check with all elements after it (j > i)
+
 3. If nums[i] + nums[j] == target, return [i, j]
 
 - Time Complexity: O(n²)
