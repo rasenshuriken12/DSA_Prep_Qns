@@ -34,6 +34,10 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 ## 💡 Approach 
 🟡 1) Linear Search (Brute Force)
 
+
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+
 *Steps:*
 
 1.Check every possible pair in the array
@@ -41,9 +45,6 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 2. For each element at index i, check with all elements after it (j > i)
 
 3. If nums[i] + nums[j] == target, return [i, j]
-
-- Time Complexity: O(n²)
-- Space Complexity: O(1)
 
 ```c
 for (i = 0; i < n; i++) {
@@ -59,6 +60,10 @@ for (i = 0; i < n; i++) {
 
 🟡 2) Sorting + Two-Pointer
 
+- Sorting( Optimal - Merge Sort )
+  - Time Complexity:  Sorting(Quick Sort, Bubble Sort `O(n²)` > Merge Sort `O(nlog(n)` ✅ )
+  - Space Complexity: Sorting(Quick Sort `O(nlog(n))` > Merge Sort `O(n)` > Bubble Sort `O(1)` ✅ )
+
 *Steps:*
 
 1. Sort the array (but need to preserve original indices)
@@ -72,10 +77,6 @@ for (i = 0; i < n; i++) {
 5. If sum == target → found our pair!
 
 6. Return original indices
-
-- Sorting( Optimal - Merge Sort )
-  - Time Complexity:  Sorting(Quick Sort, Bubble Sort `O(n²)` > Merge Sort `O(nlog(n)` ✅ )
-  - Space Complexity: Sorting(Quick Sort `O(nlog(n))` > Merge Sort `O(n)` > Bubble Sort `O(1)` ✅ )
 
 
 - Traversal 
