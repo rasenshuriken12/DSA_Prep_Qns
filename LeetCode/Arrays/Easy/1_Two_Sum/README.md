@@ -25,9 +25,8 @@ nums[i] + nums[j] == target   # i != j
 *Example:*
 
 ```bash
-nums = [2, 7, 11, 15]
-target = 9
-# Output: [0, 1] because nums[0] + nums[1] = 2 + 7 = 9
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
