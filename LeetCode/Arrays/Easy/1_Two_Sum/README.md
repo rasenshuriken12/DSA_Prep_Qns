@@ -7,7 +7,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
-## 🧮 Logic:
+## 🧮 Logic
 
 🟢 Given: An array `nums`, A `target` number
 
