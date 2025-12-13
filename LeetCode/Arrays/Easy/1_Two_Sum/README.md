@@ -11,14 +11,14 @@ You may assume that each input would have exactly one solution, and you may not 
 
 🟢 Given: An array `nums`, A `target` number
 
-```c
+```bash
 nums[] = array of integers
 target = integer
 ```
 
 🟢 To find: two indices (i, j) such that:
 
-```c
+```bash
 nums[i] + nums[j] == target   # i != j
 ```
 
