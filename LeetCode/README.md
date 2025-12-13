@@ -6,7 +6,7 @@
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow | Similiar Qns |
 |---|---|---|---|---|
-| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | [src.c](LeetCode/Arrays/Easy/1_Two_Sum/src.c) | [Logic](LeetCode/Arrays/Easy/1_Two_Sum/Logic.md) |  |
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | [src.c](LeetCode/Arrays/Easy/1_Two_Sum/src.c) | [Logic](LeetCode/Arrays/Easy/1_Two_Sum) |  |
 |  |  |  |  |  |
 
 Level: `Medium`
