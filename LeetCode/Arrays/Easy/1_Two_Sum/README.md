@@ -59,9 +59,9 @@ for (i = 0; i < n; i++) {
 
 2. Use two pointers: left at start, right at end
 
-3. If sum < target → sum is too small → need larger number → move left right
+3. If sum < target → sum is too small → need larger number → move left ptr right
 
-4. If sum > target → sum is too large → need smaller number → move right left
+4. If sum > target → sum is too large → need smaller number → move right ptr left
 
 5. If sum == target → found our pair!
 
