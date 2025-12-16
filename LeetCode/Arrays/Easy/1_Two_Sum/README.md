@@ -48,10 +48,12 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 ```python
 def twoSum(nums, target):
     n = len(nums)
+
     for i in range(n):
         for j in range(i + 1, n):
             if nums[i] + nums[j] == target:
                 return [i, j]
+
     return []
 ```
 
@@ -122,11 +124,13 @@ What is a Hash Map?
 ```python
 def twoSum(nums, target):
     seen = {}
+
     for i, num in enumerate(nums):
         need = target - num
         if need in seen:
             return [seen[need], i]
         seen[num] = i
+
     return []
 ```
 
