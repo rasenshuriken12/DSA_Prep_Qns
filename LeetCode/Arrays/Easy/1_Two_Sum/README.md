@@ -45,16 +45,14 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 
 3. If nums[i] + nums[j] == target, return [i, j]
 
-```c
-for (i = 0; i < n; i++) {
-    for (j = i + 1; j < n; j++) {
-        if (nums[i] + nums[j] == target) {
-            printf("[%d, %d]", i, j);
-            return;
-        }
-    }
-}
-
+```python
+def twoSum(nums, target):
+    n = len(nums)
+    for i in range(n):
+        for j in range(i + 1, n):
+            if nums[i] + nums[j] == target:
+                return [i, j]
+    return []
 ```
 
 🟡 2) Sorting + Two-Pointer
