@@ -100,31 +100,7 @@ def twoSum(nums, target):
         else:
             right -= 1
     
-    # According to problem, should never reach here
     return []
-
-# Alternative concise version
-def twoSum_concise(nums, target):
-    # Create sorted list with indices
-    sorted_with_idx = sorted(enumerate(nums), key=lambda x: x[1])
-    
-    left, right = 0, len(nums) - 1
-    
-    while left < right:
-        left_idx, left_val = sorted_with_idx[left]
-        right_idx, right_val = sorted_with_idx[right]
-        
-        current_sum = left_val + right_val
-        
-        if current_sum == target:
-            return [left_idx, right_idx]
-        elif current_sum < target:
-            left += 1
-        else:
-            right -= 1
-    
-    return []
-
 ```
  
 
