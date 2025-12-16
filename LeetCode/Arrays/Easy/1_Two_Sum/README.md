@@ -61,6 +61,8 @@ def twoSum(nums, target):
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort `O(n²)` > Merge Sort `O(nlog(n)` ✅ )
   - Space Complexity: Sorting(Quick Sort `O(nlog(n))` > Merge Sort `O(n)` ✅ > Bubble Sort `O(1)` )
 
+- Traversal
+
 *Steps:*
 
 1. Sort the array (but need to preserve original indices)
@@ -76,7 +78,7 @@ def twoSum(nums, target):
 6. Return original indices
 
 
-- Traversal 
+ 
 
 
 🟡 3) Hash Map
