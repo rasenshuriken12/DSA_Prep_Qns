@@ -89,3 +89,14 @@ What is a Hash Map?
 - Fast lookups: O(1) average time for insert/search/delete
 - Uses hash function to convert keys into array indices
 
+```python
+def twoSum(nums, target):
+    seen = {}
+    for i, num in enumerate(nums):
+        need = target - num
+        if need in seen:
+            return [seen[need], i]
+        seen[num] = i
+    return []
+```
+
