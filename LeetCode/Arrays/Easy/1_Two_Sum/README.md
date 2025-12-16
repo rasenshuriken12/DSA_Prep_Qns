@@ -113,6 +113,12 @@ What is a Hash Map?
 - Fast lookups: O(1) average time for insert/search/delete
 - Uses hash function to convert keys into array indices
 
+*Steps:*
+
+1. Create an empty dictionary to store numbers - {number: index}
+
+2. 
+
 ```python
 def twoSum(nums, target):
     seen = {}
