@@ -83,3 +83,9 @@ for (i = 0; i < n; i++) {
 
 🟡 3) Hash Map
 
+What is a Hash Map?
+- Key-value pair data structure
+- Dictionary-like structure (Python: dict, Java: HashMap, C++: unordered_map)
+- Fast lookups: O(1) average time for insert/search/delete
+- Uses hash function to convert keys into array indices
+
