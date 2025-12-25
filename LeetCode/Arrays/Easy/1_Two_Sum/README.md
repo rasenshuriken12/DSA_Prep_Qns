@@ -67,7 +67,7 @@ def twoSum(nums, target):
 
 *Steps:*
 
-1. Sort the array (but need to preserve original indices)
+1. Sort the array (but need to preserve original indices in a list)
 
 2. Use two pointers: left at start, right at end
 
@@ -81,7 +81,7 @@ def twoSum(nums, target):
 
 ```python
 def twoSum(nums, target):
-    indexed_nums = []     # Create list of (value, original_index)
+    indexed_nums = []     # Create list of (number, original_index)
     for i, num in enumerate(nums):
         indexed_nums.append((num, i))
     
