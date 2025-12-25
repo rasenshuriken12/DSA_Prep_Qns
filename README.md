@@ -44,17 +44,17 @@ LeetCode/
 ├── 📂 Arrays/                            # Data Structures 
 │   ├── Easy/                             # Difficulty Level
 │   │   ├── 📑 1_Two_Sum/                 # Question 
-│   │   │   ├── src.c                     # Solution 
-│   │   │   ├── Arrays_1_Logic.md               # Logical Flow of Solving & Answering, Learning, Mistakes
+│   │   │   ├── src.cpp                   # Solution 
+│   │   │   ├── README.md                 # Logical Flow of Solving & Answering, Learning, Mistakes
 │   │   ├── 📑 14_Longest_Common_Prefix/
-│   │   │   ├── src.c            
-│   │   │   ├── Arrays_14_Logic.md
+│   │   │   ├── src.cpp            
+│   │   │   ├── README.md
 │
 ├── 📂 Stacks/                        
 │   ├── Easy/
 │   │   ├── 📑 20_Valid_Parentheses/
-│   │   │   ├── src.c            
-│   │   │   ├── Stacks_20_Logic.md
+│   │   │   ├── src.cpp            
+│   │   │   ├── README.md
 |
 ├── README.md
 
