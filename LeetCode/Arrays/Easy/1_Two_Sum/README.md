@@ -58,6 +58,8 @@ def twoSum(nums, target):
     return []
 ```
 
+---
+
 🟡 **2) Sorting + Two-Pointer**
 
 - Sorting( Optimal - Merge Sort )
@@ -106,7 +108,7 @@ def twoSum(nums, target):
     return []
 ```
  
-
+---
 
 🟡 **3) Hash Map**
 
