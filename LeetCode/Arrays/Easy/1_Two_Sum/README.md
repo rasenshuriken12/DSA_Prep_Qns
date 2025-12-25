@@ -34,7 +34,7 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 
 ## 💡 Approach 
 
-🟡 **1) Hash Map**
+🟡 **1) Hash Map** ( Optimal Solution )
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
@@ -76,7 +76,7 @@ def twoSum(nums, target):
 
 🟡 **2) Sorting + Two-Pointer**
 
-- Sorting( Optimal - Merge Sort )
+- Sorting ( Optimal - Merge Sort )
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort `O(n²)` > Merge Sort `O(nlog(n)` ✅ )
   - Space Complexity: Sorting(Quick Sort `O(nlog(n))` > Merge Sort `O(n)` ✅ > Bubble Sort `O(1)` )
 
