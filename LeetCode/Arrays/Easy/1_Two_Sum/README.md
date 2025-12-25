@@ -33,7 +33,7 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 ## 💡 Approach 
-🟡 1) Linear Search (Brute Force)
+🟡 **1) Linear Search (Brute Force)**
 
 - Time Complexity: O(n²)
 - Space Complexity: O(1)
@@ -58,7 +58,7 @@ def twoSum(nums, target):
     return []
 ```
 
-🟡 2) Sorting + Two-Pointer
+🟡 **2) Sorting + Two-Pointer**
 
 - Sorting( Optimal - Merge Sort )
   - Time Complexity:  Sorting(Quick Sort, Bubble Sort `O(n²)` > Merge Sort `O(nlog(n)` ✅ )
@@ -108,7 +108,7 @@ def twoSum(nums, target):
  
 
 
-🟡 3) Hash Map
+🟡 **3) Hash Map**
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
