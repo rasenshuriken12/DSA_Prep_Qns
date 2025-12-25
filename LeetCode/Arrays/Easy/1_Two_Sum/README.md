@@ -129,7 +129,7 @@ What is a Hash Map?
 
 4. Check if the needed number is already in our dictionary
 
-5.
+5. `seen[need]` = index where we saw the `need` number earlier, `i` = current index
 
 6. If no match found, store current number for future reference
 
