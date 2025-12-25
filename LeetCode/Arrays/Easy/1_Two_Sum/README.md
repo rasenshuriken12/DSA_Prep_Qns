@@ -110,6 +110,9 @@ def twoSum(nums, target):
 
 🟡 3) Hash Map
 
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+
 What is a Hash Map?
 - Key-value pair data structure
 - Dictionary-like structure (Python: dict, Java: HashMap, C++: unordered_map)
