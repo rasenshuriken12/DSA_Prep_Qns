@@ -119,7 +119,15 @@ What is a Hash Map?
 
 1. Create an empty dictionary to store numbers - {number: index}
 
-2. 
+2. Loop through each number in the array. enumerate() gives us both index (i) and value (num)
+
+3. Calculate what number we need to pair with current num
+
+4. Check if the needed number is already in our dictionary
+
+5.
+
+6. If no match found, store current number for future reference
 
 ```python
 def twoSum(nums, target):
