@@ -44,7 +44,9 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 
 2. For each element at index i, check with all elements after it (j > i)
 
-3. If nums[i] + nums[j] == target, return [i, j]
+3. If sum == target → found our pair!
+
+4. Return original indices 
 
 ```python
 def twoSum(nums, target):
