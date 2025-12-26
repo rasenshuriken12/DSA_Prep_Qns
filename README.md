@@ -87,10 +87,10 @@ Feel free to contribute by:
 
 ---
 
-# 📝 Notes
-- The code is currently commented to indicate the logic and flow. Uncomment as needed to test or reuse.
-- For each file, you'll find solutions to several questions grouped logically. 
-- Happy coding!😊
+# 📝 Feedback:
+
+I’d love to hear from you!
+<br> If you encounter any [Issues](https://github.com/rasenshuriken12/DSA_Prep_Qns/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
 
 ---
 
