@@ -32,9 +32,10 @@ This repository contains my solutions to **basic to medium-level Data Structures
 
 # 📂 Repository Structure
 The problems are grouped by Platform/Data Structure/Level/Topic, and each topic contains solutions for multiple questions and Logical Flow of solving, Learnings, Mistakes, etc. Each problem is numbered as per the Coding Platform list for easy reference.
-Please note: the prac.c file includes some random questions of all topics which i used to practice and prepare for my viva examinations
 
+Please note: the prac.cpp file includes some random questions of all topics which i used to practice and prepare for my viva examinations.
 
+I have refered to [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/) for questions.
 
 ### Example Folder Structure:
 
@@ -59,24 +60,6 @@ LeetCode/
 ├── README.md
 
 ```
----
-
-## 📖 About the Code
-1. Each solution is **commented** for clarity.
-2. Some files contain **multiple solutions** to similar problems for comparison.
-3. The problems are **numbered** and are in increasing order of difficulty
-
-## 🚀 How to Use This Repository
-1. Browse the folders based on the data structure you're interested in.
-2. Refer to the question in the file to find the original problem on GeeksforGeeks dsa practice questions.
-3. Run the code in your local environment to understand and test the solutions.
-4. i have refered to this link for questions: [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
-
-## 💡 Future Plans
-- Add more advanced-level questions.
-- Add problems on non linear data structures.
-- Add solutions in Java.
-
 ---
 
 # 🤝 Contributions
