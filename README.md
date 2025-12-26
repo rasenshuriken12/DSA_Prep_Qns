@@ -8,7 +8,6 @@
 # 📖 Overview
 This repository contains my solutions to **basic to medium-level Data Structures and Algorithms (DSA) problems**. The questions are sourced from the GeeksforGeeks DSA practice list and are categorized by data structures for easy navigation.
 
----
 
 # ✍️ Highlights
 - **Total Questions Solved:** 10+(and will continue to do more😊) 
@@ -28,7 +27,6 @@ This repository contains my solutions to **basic to medium-level Data Structures
   - [LeetCode Company wise Problems](https://github.com/hxu296/leetcode-company-wise-problems-2022)
   - [NeetCode](https://github.com/neetcode-gh/leetcode?tab=readme-ov-file)
 
----
 
 # 📂 Repository Structure
 The problems are grouped by Platform/Data Structure/Level/Topic, and each topic contains solutions for multiple questions and Logical Flow of solving, Learnings, Mistakes, etc. Each problem is numbered as per the Coding Platform list for easy reference.
@@ -60,7 +58,6 @@ LeetCode/
 ├── README.md
 
 ```
----
 
 # 🤝 Contributions
 Feel free to contribute by:
@@ -68,14 +65,12 @@ Feel free to contribute by:
 2. Adding solutions or optimizations.
 3. Submitting a pull request!
 
----
 
 # 📝 Feedback:
 
 I’d love to hear from you!
 <br> If you encounter any [Issues](https://github.com/rasenshuriken12/DSA_Prep_Qns/issues), or have [Suggestions](Suggestions) for improvements.
 
----
 
 # 🙋‍♂️ Support:
 If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
