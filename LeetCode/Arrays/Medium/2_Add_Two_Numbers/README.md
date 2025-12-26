@@ -38,8 +38,6 @@ Result: [7,0,8] represents 807 (342 + 465 = 807 ✓)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px">
 
----
-
 ## 💡 Approach & Algorithm
 
 ### 🟢 **Optimal Solution: Digit-by-Digit Addition with Carry**
@@ -102,19 +100,6 @@ class Solution:
         
         return dummy.next  # Skip dummy head
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px">
-
----
-
-## 🧪 Test Cases
-
-| Test Case | Input (l1 → l2) | Expected Output | Explanation |
-|-----------|----------------|-----------------|-------------|
-| **TC1** | [2,4,3] + [5,6,4] | [7,0,8] | 342 + 465 = 807 |
-| **TC2** | [0] + [0] | [0] | 0 + 0 = 0 |
-| **TC3** | [9,9,9,9,9,9] + [9,9,9,9] | [8,9,9,9,0,0,1] | 999999 + 9999 = 1009998 |
-| **TC4** | [5] + [5] | [0,1] | 5 + 5 = 10 |
 
 ---
 
