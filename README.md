@@ -35,7 +35,7 @@ The problems are grouped by Platform/Data Structure/Level/Topic, and each topic 
 
 Please note: the prac.cpp file includes some random questions of all topics which i used to practice and prepare for my viva examinations.
 
-I have refered to [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/) for questions.
+I have referred to [GFG DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/) for questions.
 
 ### Example Folder Structure:
 
@@ -86,3 +86,4 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 |---|---|---|
 
  
+
