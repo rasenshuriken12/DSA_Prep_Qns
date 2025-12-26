@@ -13,20 +13,21 @@ You may assume the two numbers do **not** contain any leading zero, except the n
 ## 🧮 Logic
 
 ### 📊 Input Format
+
 - `l1`: Linked list representing the first number (digits in reverse order)
 - `l2`: Linked list representing the second number (digits in reverse order)
-- Each node contains a single digit (0–9)
+- Each node contains single digit (0–9) numbers. Digits are stored backwards (units digit first)
 
 ### 🔁 Example
 ```bash
 Input: l1 = [2,4,3], l2 = [5,6,4]
-Explanation: 342 + 465 = 807
-Output: [7,0,8] → (807 in reverse order)
+Output: [7,0,8] → (807 in reverse order)   # 342 + 465 = 807
 
-Visual:
-  2 → 4 → 3  (represents 342)
-+ 5 → 6 → 4  (represents 465)
-= 7 → 0 → 8  (represents 807)
+  Step 1: 2 + 5 = 7       (no carry)  → [7]
+  Step 2: 4 + 6 = 10      (carry 1)   → [7,0]
+  Step 3: 3 + 4 + 1 = 8   (carry 0)   → [7,0,8]
+  
+Result: [7,0,8] represents 807 (342 + 465 = 807 ✓)
 ```
 
 ### 🎯 Key Points
