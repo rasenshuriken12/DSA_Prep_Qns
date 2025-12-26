@@ -86,9 +86,9 @@ class Solution:
             val2 = l2.val if l2 else 0
             
             # Calculate sum and carry
-            total = val1 + val2 + carry
-            carry = total // 10
-            digit = total % 10
+            sum = val1 + val2 + carry
+            carry = sum // 10
+            digit = sum % 10
             
             # Create new node
             current.next = ListNode(digit)
