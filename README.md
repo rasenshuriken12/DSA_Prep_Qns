@@ -90,7 +90,7 @@ Feel free to contribute by:
 # 📝 Feedback:
 
 I’d love to hear from you!
-<br> If you encounter any [Issues](https://github.com/rasenshuriken12/DSA_Prep_Qns/issues), or have [Suggestions](Issue_Template/Features_report.md) for improvements.
+<br> If you encounter any [Issues](https://github.com/rasenshuriken12/DSA_Prep_Qns/issues), or have [Suggestions](Suggestions) for improvements.
 
 ---
 
