@@ -10,9 +10,7 @@ You may assume the two numbers do **not** contain any leading zero, except the n
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px">
 
----
-
-## 🧮 Understanding the Problem
+## 🧮 Logic
 
 ### 📊 Input Format
 - `l1`: Linked list representing the first number (digits in reverse order)
