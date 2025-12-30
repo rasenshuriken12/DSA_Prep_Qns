@@ -61,7 +61,29 @@ LeetCode/
 
 # 🏗️ LeetCode Problem-Solving Strategy
 
+Phase 1: Foundation 
+- Don't jump to hard problems. Start with:
+1. Array operations (sum, max/min, reverse)
+2. String manipulation
+3. Basic math problems
+4. Simple loops and conditions
 
+- Learn These 10 Patterns (in order):
+1. Two Pointers
+2. Sliding Window
+3. Hash Map / Set
+4. Binary Search
+5. Stack / Queue
+6. Linked List basics
+7. Tree traversal (BFS/DFS)
+8. Simple DP (Fibonacci style)
+9. Recursion basics
+10. Sorting algorithms
+
+Phase 2: The Problem-Solving Process
+
+- Understand Deeply (10-15 minutes)
+- 
 
 # 🤝 Contributions
 Feel free to contribute by:
