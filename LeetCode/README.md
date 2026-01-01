@@ -1,5 +1,8 @@
 # LeetCode(LC)
 
+### Useful Resources 
+- [Top 75](https://www.teamblind.com/post/new-year-gift-curated-list-of-top-75-leetcode-questions-to-save-your-time-oam1oreu)
+
 
 ![Arrays](https://img.shields.io/badge/Arrays-000080?style=for-the-badge&logo=C&logoColor=white)
 
