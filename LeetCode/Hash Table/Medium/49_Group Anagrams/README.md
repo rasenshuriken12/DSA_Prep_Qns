@@ -4,41 +4,33 @@
 
 Given an array of strings `strs`, group the anagrams together. You can return the answer in any order.
 
+> What is an Anagram?
+> - A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
-## 🧮 Logic
+🧮 Logic
 
-
-🟢 Given: An array `nums`, A `target` number
-
-```bash
-nums[] = array of integers   # strs[i] consists of lowercase English letters.
-target = integer
-```
-
-🟢 To find: two indices (`i`, `j`) such that:
+🟢 Given: An array of strings `strs`
 
 ```bash
-nums[i] + nums[j] == target   # i != j
+strs = ["eat","tea","tan","ate","nat","bat"]
 ```
 
-
-
-
+🟢 To find: Group all anagrams together
 
 *Example:*
 
 ```bash
 Input: strs = ["eat","tea","tan","ate","nat","bat"]
-Output: [["bat"],["nat","tan"],["ate","eat","tea"]]          # Because 
+Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 ```
 
 *Explanation:*
 
-- There is no string in `strs` that can be rearranged to form "bat".
-- The strings "nat" and "tan" are anagrams as they can be rearranged to form each other.
-- The strings "ate", "eat", and "tea" are anagrams as they can be rearranged to form each other.
-
+- "eat", "tea", "ate" are anagrams → group together
+- "tan", "nat" are anagrams → group together  
+- "bat" has no anagram → single group
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
