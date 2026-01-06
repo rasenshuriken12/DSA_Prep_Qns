@@ -39,11 +39,11 @@ Output: [0,1]          # Because nums[0] + nums[1] == 9, we return [0, 1].
 - Time Complexity: O(n)
 - Space Complexity: O(n)
 
-What is a Hash Map?
-- Key-value pair data structure
-- Dictionary-like structure (Python: dict, Java: HashMap, C++: unordered_map)
-- Fast lookups: O(1) average time for insert/search/delete
-- Uses hash function to convert keys into array indices
+> What is a Hash Map?
+> - Key-value pair data structure
+> - Dictionary-like structure (Python: dict, Java: HashMap, C++: unordered_map)
+> - Fast lookups: O(1) average time for insert/search/delete
+> - Uses hash function to convert keys into array indices
 
 *Steps:*
 
