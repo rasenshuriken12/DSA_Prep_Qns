@@ -27,12 +27,12 @@ nums[i] + nums[j] == target   # i != j
 
 ```bash
 Input: nums = [2,7,11,15], target = 9
-Output: [0,1]          # 
+Output: [0,1] 
 ```
 
 *Explanation:*
 
-- Because nums[0] + nums[1] == 9, we return their indices [0, 1].
+- Because nums[ 0 ] + nums[ 1 ] == 9, we return their indices [ 0, 1 ].
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
