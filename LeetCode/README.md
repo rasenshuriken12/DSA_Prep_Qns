@@ -1,6 +1,6 @@
 # LeetCode(LC)
 
-![Arrays](https://img.shields.io/badge/Arrays-000080?style=for-the-badge&logo=C&logoColor=white)
+![Arrays](https://img.shields.io/badge/Arrays-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow | Video Solution | Similiar Qns |
@@ -20,7 +20,7 @@ Level: `Hard`
 | . | [Title]() | [src.c]() | [Logic]() |  |
 |  |  |  |  |  |
 
-![Stack](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=C&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow | Similiar Qns |
