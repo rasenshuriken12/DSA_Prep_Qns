@@ -26,7 +26,7 @@ Level: `Hard`
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow | Similiar Qns |
 |---|---|---|---|---|
-| 20. | [Valid Patentheses](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack) | [src](LeetCode/Stack/Easy/20_Valid_Patentheses/src.c) | [Logic](LeetCode/Stack/Easy/20_Valid_Patentheses/Logic.md) |  |
+| 20. | [Valid Patentheses](https://leetcode.com/problems/valid-parentheses/?envType=problem-list-v2&envId=stack) | [src]() | [Logic]() |  |
 |  |  |  |  |  |
 
 Level: `Medium`
@@ -47,9 +47,9 @@ Level: `Hard`
 Level: `Easy`
 | LC Qn | Title | Solution | Logical Flow | Video Solution | Similiar Qns |
 |---|---|---|---|---|---|
-| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | [src.java](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/e8c309d33abe185064a198d0d4c328e51fb064e3/LeetCode/Arrays/Easy/1_Two_Sum/src.java#L5) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/e8c309d33abe185064a198d0d4c328e51fb064e3/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/vzdNOK2oB2E?si=4ICVGscUZmW3L9MK) |  |
-| 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [src.java]() | [💡]() | [🔗]() |  |
-| 49. | [Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=hash-table) | [src.java]() | [💡]() | [🔗]() |  |
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | [src](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/e8c309d33abe185064a198d0d4c328e51fb064e3/LeetCode/Arrays/Easy/1_Two_Sum/src.java#L5) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/e8c309d33abe185064a198d0d4c328e51fb064e3/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/vzdNOK2oB2E?si=4ICVGscUZmW3L9MK) |  |
+| 242. | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [src]() | [💡]() | [🔗]() |  |
+| 49. | [Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=hash-table) | [src]() | [💡]() | [🔗]() |  |
 |  |  |  |  |  |  |
 
 Level: `Medium`
