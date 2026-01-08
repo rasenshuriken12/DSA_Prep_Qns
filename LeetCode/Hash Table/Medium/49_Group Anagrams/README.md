@@ -53,7 +53,7 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 > - All anagrams will map to the same key
 > - The hash map values will be lists of grouped anagrams
 
-Steps:
+*Steps:*
 
 1. Create an empty dictionary to map sorted string → list of anagrams
 2. For each string in the input array:
@@ -61,6 +61,8 @@ Steps:
    · Use the sorted string as the dictionary key
    · Append the original string to the corresponding list
 3. Return all values from the dictionary as a list of lists
+
+*Code:*
 
 ```python
 def groupAnagrams(strs):
@@ -96,7 +98,7 @@ def groupAnagrams(strs):
     return list(anagram_groups.values())
 ```
 
-Visual Example:
+*Example:*
 
 ```
 Input: ["eat", "tea", "tan", "ate", "nat", "bat"]
@@ -110,29 +112,6 @@ Dictionary Development:
 6. "bat" → "abt" → {"aet": ["eat", "tea", "ate"], "ant": ["tan", "nat"], "abt": ["bat"]}
 
 Output: [["eat", "tea", "ate"], ["tan", "nat"], ["bat"]]
-```
-
----
-
-
-- Time Complexity: 
-- Space Complexity: 
-
-*Steps:*
-
-1. 
-
-2. 
-
-3. 
-
-4. 
-
-5. 
-
-```python
-
-
 ```
 
 ---
