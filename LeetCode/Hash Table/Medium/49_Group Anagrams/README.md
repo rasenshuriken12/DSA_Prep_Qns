@@ -68,22 +68,6 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 
 ```python
 def groupAnagrams(strs):
-    """
-    Groups anagrams using sorted string as key
-    
-    Example Walkthrough:
-    Input: ["eat", "tea", "tan", "ate", "nat", "bat"]
-    
-    Process:
-    - "eat" → sorted("eat") = "aet" → dict["aet"] = ["eat"]
-    - "tea" → sorted("tea") = "aet" → dict["aet"] = ["eat", "tea"]
-    - "tan" → sorted("tan") = "ant" → dict["ant"] = ["tan"]
-    - "ate" → sorted("ate") = "aet" → dict["aet"] = ["eat", "tea", "ate"]
-    - "nat" → sorted("nat") = "ant" → dict["ant"] = ["tan", "nat"]
-    - "bat" → sorted("bat") = "abt" → dict["abt"] = ["bat"]
-    
-    Output: Values of dict = [["eat","tea","ate"], ["tan","nat"], ["bat"]]
-    """
     anagram_groups = {}
     
     for word in strs:
