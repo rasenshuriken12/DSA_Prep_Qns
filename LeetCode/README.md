@@ -5,7 +5,7 @@
 Level: `Easy`
 | LC Qn | Title | Topics | Solution | Logical Flow | Video Solution | Similiar Qns |
 |---|---|---|---|---|---|---|
-| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | `Arrays``Hash Table`| [src](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/main/LeetCode/Arrays/Easy/1_Two_Sum/src.java) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/KLlXCFG5TnA?si=0mQsFiqkdFeE86Fh) |  |
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | `Arrays` `Hash Table`| [src](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/main/LeetCode/Arrays/Easy/1_Two_Sum/src.java) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/KLlXCFG5TnA?si=0mQsFiqkdFeE86Fh) |  |
 |  |  |  |  |  |  |  |
 
 Level: `Medium`
