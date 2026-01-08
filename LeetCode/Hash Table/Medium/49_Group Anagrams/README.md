@@ -32,6 +32,11 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 - "tan", "nat" are anagrams → group together  
 - "bat" has no anagram → single group
 
+> Two strings are anagrams, if they have:
+> - Same length
+> - Exact same characters with the same frequencies
+> - Identical sorted versions 
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 ## 💡 Approach 
