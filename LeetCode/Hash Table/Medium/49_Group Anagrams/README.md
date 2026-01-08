@@ -57,11 +57,11 @@ Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 
 *Steps:*
 
-1. Create an empty dictionary to map sorted string → list of anagrams
+1. Create an empty dictionary to store sorted string → list of anagrams
 2. For each string in the input array:
-   · Sort the string (convert to list, sort, join back)
-   · Use the sorted string as the dictionary key
-   · Append the original string to the corresponding list
+   - Sort the string (convert to list, sort, join back)
+   - Use the sorted string as the dictionary key
+   - Add the original string to the corresponding list
 3. Return all values from the dictionary as a list of lists
 
 *Code:*
