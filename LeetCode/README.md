@@ -53,11 +53,11 @@ Level: `Easy`
 |  |  |  |  |  |  |
 
 Level: `Medium`
-| LC Qn | Title | Solution | Logical Flow | Video Solution | Similiar Qns |
-|---|---|---|---|---|---|
-| 49. | [Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=hash-table) | [src]() | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Hash%20Table/Medium/49_Group%20Anagrams) | [🔗](https://youtu.be/vzdNOK2oB2E?si=4ICVGscUZmW3L9MK) |  |
+| LC Qn | Title | Topics | Solution | Logical Flow | Video Solution | Similiar Qns |
+|---|---|---|---|---|---|---|
+| 49. | [Group Anagrams](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=hash-table) | `Arrays` `Hash Table` `Sorting` `Strings`| [src]() | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Hash%20Table/Medium/49_Group%20Anagrams) | [🔗](https://youtu.be/vzdNOK2oB2E?si=4ICVGscUZmW3L9MK) |  |
 | . | [Title]() | [src]() | [Logic]() |  |  |
-|  |  |  |  |  |
+|  |  |  |  |  |  |
 
 Level: `Hard`
 | LC Qn | Title | Solution | Logical Flow | Video Solution | Similiar Qns |
