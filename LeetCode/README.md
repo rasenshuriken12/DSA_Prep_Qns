@@ -3,10 +3,10 @@
 ![Arrays](https://img.shields.io/badge/Arrays-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 Level: `Easy`
-| LC Qn | Title | Solution | Logical Flow | Video Solution | Similiar Qns |
-|---|---|---|---|---|---|
-| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | [src](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/main/LeetCode/Arrays/Easy/1_Two_Sum/src.java) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/KLlXCFG5TnA?si=0mQsFiqkdFeE86Fh) |  |
-|  |  |  |  |  |  |
+| LC Qn | Title | Topics | Solution | Logical Flow | Video Solution | Similiar Qns |
+|---|---|---|---|---|---|---|
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array) | `Arrays``Hash Table`| [src](https://github.com/rasenshuriken12/DSA_Prep_Qns/blob/main/LeetCode/Arrays/Easy/1_Two_Sum/src.java) | [💡](https://github.com/rasenshuriken12/DSA_Prep_Qns/tree/main/LeetCode/Arrays/Easy/1_Two_Sum) | [🔗](https://youtu.be/KLlXCFG5TnA?si=0mQsFiqkdFeE86Fh) |  |
+|  |  |  |  |  |  |  |
 
 Level: `Medium`
 | LC Qn | Title | Solution | Logical Flow | Similiar Qns |
