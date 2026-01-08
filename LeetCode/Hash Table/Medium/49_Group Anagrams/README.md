@@ -6,7 +6,7 @@ Given an array of strings `strs`, group the anagrams together. You can return th
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
-🧮 Logic
+## 🧮 Logic
 
 🟢 Given: An array of strings `strs`
 
