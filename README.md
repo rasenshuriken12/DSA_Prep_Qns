@@ -48,12 +48,16 @@ LeetCode/
 │   │   ├── 📑 14_Longest_Common_Prefix/
 │   │   │   ├── src.cpp            
 │   │   │   ├── README.md
+│   ├── Medium/
+│   ├── Hard/      
 │
 ├── 📂 Stacks/                        
 │   ├── Easy/
 │   │   ├── 📑 20_Valid_Parentheses/
 │   │   │   ├── src.cpp            
 │   │   │   ├── README.md
+│   ├── Medium/
+│   ├── Hard/  
 |
 ├── README.md
 
